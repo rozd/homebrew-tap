@@ -1,8 +1,8 @@
 class Iconkit < Formula
   desc "CLI tool for working with Apple .icon bundles"
   homepage "https://github.com/rozd/icon-kit"
-  url "https://github.com/rozd/icon-kit/archive/refs/tags/v0.3.1.tar.gz"
-  sha256 "bd56f8f737c204b32ad8b0a10c32ee9f5eb261e3c9acce8c8df9a66a706bf34a"
+  url "https://github.com/rozd/icon-kit/archive/refs/tags/v1.0.0.tar.gz"
+  sha256 "2a0cf83668365e27ef22b181c3f5a803f0b849c04a4b4bcb25f99593f5473d13"
   license "MIT"
 
   depends_on xcode: ["16.0", :build]
